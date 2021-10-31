@@ -1,0 +1,28 @@
+{
+  "title": "vercel",
+  "titleTemplate": "%s - hello hello",
+  "description": "vercel - ",
+  "image": "../public/vercel.svg",
+  "color": "#1354DC",
+  "openGraph": {
+    "title": "vercel",
+    "description": "hello hello",
+    "type": "website",
+    "locale": "en_IE",
+    "url": "",
+    "site_name": "vercel",
+    "images": [
+      {
+        "url": "../public/vercel.svg",
+        "width": 300,
+        "height": 64,
+        "alt": "vercel"
+      }
+    ]
+  },
+  "instagram": {
+    "handle": "@vercel",
+    "site": "@vercel",
+    "cardType": "summary_large_image"
+  }
+}
